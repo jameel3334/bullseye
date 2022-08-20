@@ -52,7 +52,6 @@ struct LeaderboardView: View {
             .padding(.trailing)
             .frame(maxWidth: Constants.Leaderboard.LeaderboardMaxRowWidth)
         }
-        
     }
     
     struct HeaderView: View {
